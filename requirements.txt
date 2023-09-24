@@ -1,0 +1,10 @@
+numpy
+pandas
+jupyter
+jupyter-client
+jupyter-console
+jupyter-core
+requests
+scipy
+XlsxWriter
+-e .
